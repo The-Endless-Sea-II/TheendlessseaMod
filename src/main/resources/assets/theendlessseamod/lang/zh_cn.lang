@@ -38,13 +38,13 @@ tile.falsegrass.name=草方块
 tile.infused_clay_block.name=聚星粘土块
 
 #Tooltip
-tile.falsegrass.1.tooltip=§2This is false§r
+tile.falsegrass.1.tooltip=§2没错，这很假§r
 tile.falsegrass.shift.1.tooltip=§1切记§r§9它是一种不可再生资源谨慎使用§r
-item.false_sword.1.tooltip=§2This is false§r
-item.false_axe.1.tooltip=§2This is false§r
-item.false_pickaxe.1.tooltip=§2This is false§r
-item.false_shovel.1.tooltip=§2This is false§r
-item.false_hoe.1.tooltip=§2This is false§r
+item.false_sword.1.tooltip=§2没错，这很假§r
+item.false_axe.1.tooltip=§2没错，这很假§r
+item.false_pickaxe.1.tooltip=§2没错，这很假§r
+item.false_shovel.1.tooltip=§2没错，这很假§r
+item.false_hoe.1.tooltip=§2没错，这很假§r
 
 item.processor_binding.1.tooltip=物品材质来自于RS(精致存储)
 item.raw_basic_processor.1.tooltip=物品材质来自于RS(精致存储)
